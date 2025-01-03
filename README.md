@@ -67,3 +67,10 @@ Bu komut, yerel olarak Streamlit uygulaması başlatır ve uygulama web tarayıc
 ```bash
 ^C
 ```
+# Uygulama Görselleri
+
+Streamlit uygulamasının görselleri:
+
+![Giriş Ekranı](./images/girisekrani.jpg)
+![Soru-Cevap Ekranı](./images/sorucevapekrani.jpg)
+![Çıkış Ekranı](./images/cikisekrani.jpg)
