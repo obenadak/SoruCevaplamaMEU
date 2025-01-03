@@ -23,7 +23,7 @@ veri_kumesi = veri_kumesi[[soru_sutun, cevap_sutun, tur_sutun]].dropna()
 punctions_cluster = string.punctuation
 turkish_stopwords = stopwords.words('turkish')
 whitelist = {"kim", "mı", "mu", "mü", "nasıl", "ne", "neden", "nerde", "nereye", "nerede",
-             "nereye", "niçin", "için", "niye", "her", "de", "da", "ve","biri","en","az","bu"}
+             "nereye", "niçin", "için", "niye", "her", "de", "da", "ve","biri","en","az","bu","veya"}
 
 def metin_temizleme(metin):
     turkce_cevir = str.maketrans(

@@ -53,9 +53,17 @@ pip install -r requirements.txt
 
 ## Streamlit Uygulamasının Başlatılması
 
-> **⚠️ UYARI:** Streamlit uygulamasını başlatmak için bash ekranında şu komutu kullanmalısınız:
+> **⚠️ UYARI:** Streamlit uygulamasını başlatmak için öncelikle **bash ekranında uygulamayı kaydettiğiniz dizini girmelisiniz** ardından yine bash ekranında şu komutu kullanmalısınız:
 
 ```bash
 streamlit run streamlit.py
 ```
 Bu komut, yerel olarak Streamlit uygulaması başlatır ve uygulama web tarayıcınızda çalışmaya başlar.
+
+## Streamlit Uygulamasının Sonlandırılması
+
+> **⚠️ UYARI:** Uygulamayı sonlandırmak için ise bash ekranında şu komutu kullanmalısınız (CTRL+C):
+
+```bash
+^C
+```
