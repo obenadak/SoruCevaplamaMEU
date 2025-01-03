@@ -48,13 +48,14 @@ Bu proje için aşağıdaki Python kütüphaneleri gerekmektedir:
 > **⚠️ UYARI:** Gerekli kütüphaneleri yüklemek için bash ekranında şu komutu kullanmalısınız:
 
 ```bash
-**pip install -r requirements.txt**
+pip install -r requirements.txt
+```
 
 ## Streamlit Uygulamasının Başlatılması
 
 > **⚠️ UYARI:** Streamlit uygulamasını başlatmak için bash ekranında şu komutu kullanmalısınız:
 
 ```bash
-**streamlit run streamlit.py**
-
+streamlit run streamlit.py
+```
 Bu komut, yerel olarak Streamlit uygulaması başlatır ve uygulama web tarayıcınızda çalışmaya başlar.
